@@ -1,8 +1,6 @@
-# web-development-journey
-My web development journey, starting with HTML and progressing through CSS and JavaScript, with practice, notes, and projects along the way.
 # Web Development Journey
 
-This repository contains my learning journey in web development.
+My web development journey, starting with HTML and progressing through CSS and JavaScript.
 
 ## Learning Path
 
@@ -10,7 +8,31 @@ This repository contains my learning journey in web development.
 - CSS
 - JavaScript
 
-## Purpose
+## Progress
 
-I created this repository to practice web development,
-keep track of my progress, and store my projects and exercises.
+### HTML
+- [ ] HTML Basics
+- [ ] Text and Headings
+- [ ] Links and Images
+- [ ] Lists
+- [ ] Forms
+- [ ] Tables
+- [ ] Semantic HTML
+
+### CSS
+- [ ] CSS Basics
+- [ ] Selectors
+- [ ] Colors and Fonts
+- [ ] Box Model
+- [ ] Flexbox
+- [ ] Grid
+- [ ] Responsive Design
+
+### JavaScript
+- [ ] JavaScript Basics
+- [ ] Variables
+- [ ] Data Types
+- [ ] Conditions
+- [ ] Loops
+- [ ] Functions
+- [ ] DOM
