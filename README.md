@@ -17,3 +17,14 @@ images ,
 list and table in the html
 
 
+$$Day__03:
+Today cover these topics:
+<br> Tag:
+Html lists:
+Ordered list
+Unordered list
+values , roman coutings ,and so on.
+Defination list
+Core Web Vitals
+light house report 
+Meta text and meta variables
