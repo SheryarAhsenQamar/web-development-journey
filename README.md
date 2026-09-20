@@ -28,3 +28,22 @@ Defination list
 Core Web Vitals
 light house report 
 Meta text and meta variables
+
+$$Day__04:
+
+Html lists:
+Ordered list
+Unordered list
+values , roman coutings ,and so on.
+Defination list
+Core Web Vitals:
+light house report 
+Meta text and meta variables
+
+$$Day__05:
+
+What is a Form 
+Input Tag 
+Get and Post 
+Label Tag 
+Textarea Tag
