@@ -47,3 +47,5 @@ Input Tag
 Get and Post 
 Label Tag 
 Textarea Tag
+Inline Elements Vs Block Elements
+Comprehensive list for Inline and Block Elements
