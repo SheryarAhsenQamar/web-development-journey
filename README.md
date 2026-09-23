@@ -49,3 +49,29 @@ Label Tag
 Textarea Tag
 Inline Elements Vs Block Elements
 Comprehensive list for Inline and Block Elements
+
+$$Day__06:
+
+Id and classes.
+
+$$Day__07:
+
+Audio and video play attributes.
+ Intro
+Setting Up the Workspace 
+Topic Overview: Video, Audio, Media 
+The Video Tag and Attributes
+SRC Attribute and Video Sizing
+Making Video Responsive 
+Video Controls
+Download, Full-screen, and Mute Options 
+AutoPlay Attribute
+Removing AutoPlay
+Loop Attribute
+Muted Attribute 
+poster Attribute
+Dimensions: Width and Height
+Introduction to Audio 
+Looping Audio
+Repeat Feature for MP3 
+Preload Attribute
