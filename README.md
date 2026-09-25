@@ -75,3 +75,6 @@ Introduction to Audio
 Looping Audio
 Repeat Feature for MP3 
 Preload Attribute
+$$Day__08:
+HTML Entities and Special Symbols Quotation Tags Obsolete HTML Tags
+ Code Tag and Prism.js Library
