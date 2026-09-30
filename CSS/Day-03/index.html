@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS selecters</title>
+    <style>
+        /*class selecter*/
+        .red {
+            background-color: chartreuse;
+        }
+
+        #green {
+            background-color: aqua;
+        }
+/*     child selecter*/
+        div > p {
+            background-color: fuchsia;
+            color: blue;
+        }
+        /* Decendent selecters. */
+
+        iv > p {
+            background-color: fuchsia;
+            color: blue;
+        }
+        /* Universal Selecter */
+
+        *{
+            margin: 0;
+            padding: 0;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="red">
+        I am a div
+        <p> im a paragraph inside the dib
+
+        </p>
+    </div>
+    <div id="green"> im not a div</div>
+    
+</body>
+
+</html>

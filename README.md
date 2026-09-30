@@ -78,3 +78,30 @@ Preload Attribute
 $$Day__08:
 HTML Entities and Special Symbols Quotation Tags Obsolete HTML Tags
  Code Tag and Prism.js Library
+
+
+
+### css
+
+$$Day__01:
+
+ introduction to the css
+ How to give colour and background color to any of the heading and paragraph.
+ 
+ $$Day__02:
+
+ inline css 
+ internal css
+ external css
+
+ $$Day__03:
+
+ slecters in the css
+ Internal CSS
+ (Element Selector ) Selection of Div
+ Class Selector 
+ ID Sellector
+ Child Selector
+ Descendant Sellector
+ Universal Sellector
+ Pseudo Sellector
