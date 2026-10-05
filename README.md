@@ -102,10 +102,17 @@ $$Day__01:
  Class Selector 
  ID Sellector
  Child Selector
-  $$Day__04:
+
+$$Day__04:
+
  Descendant Sellector
  Universal Sellector
  Pseudo Sellector
 
   $$Day__05:
+
+  CSS Box model
+  peding 
+  margin
+  border
   
