@@ -115,4 +115,13 @@ $$Day__04:
   peding 
   margin
   border
-  
+ $$Day__06:
+ css text styling
+ css color selection
+ text bold italic 
+ text underline
+ text boarder
+
+  $$Day__07:
+
+  css specificity and cascade

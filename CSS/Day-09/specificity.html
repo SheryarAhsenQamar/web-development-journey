@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS Specificity and Cascade</title>
+    <style>
+        /*The specificity of this selector is 1.*/
+        h1 {
+            color: rgb(0, 255, 98);
+        }
+
+        /*The specificity of this selector is 10.*/
+        .vblue {
+            color: blue;
+        }
+
+        /*The specificity of this selector is 10.*/
+        .tpurple {
+            color: firebrick ;
+        }
+
+        /*The specificity of this selector is 10.*/
+        
+        .mgrey {
+            color: green;
+        }
+         /*This is an example of the attribute selector and ,The specificity of this selector is 10.*/
+        [data - x = a] {
+            color: maroon;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 " class="red  vblue tpurple mgrey ">css Specificity and Cascade</h1>
+</body>
+
+</html>
