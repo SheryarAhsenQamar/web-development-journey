@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sizing Units</title>
+    <style>
+        .box {
+
+            border: 2px solid black;
+            width: 90vw;
+            height: 10vh;
+            margin: auto;
+            /*margin auto is only applicable to the block element but not apply on the inline element.*/
+            background-color: aquamarine;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            box-sizing: border-box;
+            border: 2px solid black;
+
+            width: 90vw;
+            margin: 13px auto;
+            /*here the 23 is the margin from the top botttom and the auto is from the left and right.*/
+            min-height: 50vh;
+            /*the min height is used to tellt that min height of the box is 5o wheather the text is present in it or not but if the text is much then it expand automatically according to that.*/
+            font-size: 18px;
+            /*if we remove the 18px from the so the default size is the sixteen so the font size by inherited is the 32.automaically but if we mention the font size seperatley in the pixel according to that inherited and then appply..*/
+            /*margin auto is only applicable to the block element but not apply on the inline element.*/
+            background-color: aquamarine;
+        }
+
+        .mycount {
+            color: aqua;
+            background-color: slategray;
+            font-size: 23px;
+            width: 90vw;
+            border: 2px solid black;
+            margin: 13px auto;
+        }
+
+        .container p {
+            font-size: 2em; 
+        }
+    </style>
+</head>
+
+<body>
+    <div class="box">
+        This is the box
+    </div>
+    <div class="container">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Numquam, reprehenderit expedita ut harum tempore
+            magnam
+            quis a amet placeat odio? Error, veritatis! Ea sequi impedit harum molestias excepturi necessitatibus
+            consectetur? Blanditiis sapiente quasi hic voluptate doloremque laboriosam? Itaque aut reiciendis ratione
+            quam
+            perferendis alias fugiat delectus ab placeat natus praesentium officiis eius commodi, aliquid fuga
+            perspiciatis?
+        </p>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod alias deserunt, adipisci earum minus porro
+            saepe dolores enim, assumenda ullam ea illo ipsam sint laborum quibusdam ducimus eos voluptatum beatae
+            tempore. Cum libero voluptates eveniet facilis. Repellat beatae rem illum illo facere. Tempora sequi tenetur
+            provident ipsam tempore exercitationem nemo unde, nesciunt velit accusantium sunt?
+        </p>
+
+    </div>
+    <div class="mycount">
+        This is the second contaner and the content in it.
+    </div>
+
+</body>
+
+</html>

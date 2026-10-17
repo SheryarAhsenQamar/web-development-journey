@@ -125,3 +125,20 @@ $$Day__04:
   $$Day__07:
 
   css specificity and cascade
+
+$$Day__08:
+
+CSS Sizing Units -
+px
+rem
+em
+vh
+vw
+% & more
+
+$$Day__09:
+
+CSS  display property
+Css outline and shadow
+
+$$Day__10:
