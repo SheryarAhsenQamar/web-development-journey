@@ -142,3 +142,5 @@ CSS  display property
 Css outline and shadow
 
 $$Day__10:
+
+styling list using css
