@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Variables </title>
+    <style>
+        /*rooot is the globall variabl*/
+        :root{
+      --color:rgb(35, 175, 0);
+      --seccolor:rgb(99, 8, 64);
+        }
+        *{
+            margin: 0;
+            padding: 0;
+        }
+        div:first-child {
+            background-color: var(--color);
+        }
+
+        /*here above where is used the div:firstchild i can use the class if give to the div. e.g i give the class name  vib so here i will call .vib then set the background.*/
+        .container{
+            background-color: var(--seccolor);
+        }
+        ul{
+            display: flex;
+        }
+      ul>li{
+        list-style: none;
+        padding: 34px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </style>
+</head>
+
+<body>
+    <div>
+        <ul>
+            <li>Home </li>
+            <li>About </li>
+            <li>Contact </li>
+        </ul>
+    </div>
+
+    <div class="container">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed hic eum minima libero ut vel odit? Quos nisi, iure
+        minima itaque distinctio laudantium dolorum animi praesentium necessitatibus ipsam soluta exercitationem neque?
+        Vel voluptates sapiente dignissimos, labore, sint harum delectus deleniti neque, at totam architecto sequi.
+
+
+
+
+    </div>
+
+</body>
+
+</html>
